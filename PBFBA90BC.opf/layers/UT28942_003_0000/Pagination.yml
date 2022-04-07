@@ -1,0 +1,100 @@
+id: cd2bf6ca073b468ebd4eaf902e73237a
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3e37c01a011748f78ef3307fb56a7a20:
+    span:
+      start: 4190
+      end: 5907
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPE28FF97567E8E819
+  0ff027d9e0014e7ea3887da86c53bca6:
+    span:
+      start: 2506
+      end: 4188
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPB9FC4A3A89A63F26
+  da7638bb91d5486b94f712b1457c0419:
+    span:
+      start: 14806
+      end: 16341
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPD1CAEAA534209BFB
+  3ece6c490b9045e7b6f6f385f9d500d7:
+    span:
+      start: 16343
+      end: 17890
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPC1DFC70A0354DCDE
+  80f9a92facf64ff7a01d8656ed21e8ac:
+    span:
+      start: 5909
+      end: 8682
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP6E39183BBB176D56
+  83b72dfd4c714a9583ce630111fdaed1:
+    span:
+      start: 21527
+      end: 22486
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPD14B4C1D9805C0AE
+  396bd6af84d949078c981648a4e71819:
+    span:
+      start: 12498
+      end: 14804
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPE7F1097D369481BA
+  a41d92733ce74773910ef776fe484233:
+    span:
+      start: 0
+      end: 2504
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPDEBDAF06C96DB615
+  4a23b4961eb44039909b92132ffcd1fb:
+    span:
+      start: 17892
+      end: 19393
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP3AE9A68244DD63EF
+  8f884742254a44ae842b6911bc5b5f4e:
+    span:
+      start: 10708
+      end: 12496
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPABCC3BF51610595B
+  078c6e1e879b4485809d9167322c9dbd:
+    span:
+      start: 8684
+      end: 10706
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP8AE742436BA81F20
+  c6ba7b771725495cae6644798ea43df7:
+    span:
+      start: 19395
+      end: 21525
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPB21AED40E6E03C04
