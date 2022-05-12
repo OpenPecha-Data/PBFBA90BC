@@ -579,3 +579,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/W28942
 created_at: '2021-12-29T12:08:07.568194'
 last_modified_at: '2021-12-29T12:08:07.568204'
+statistics:
+  total_words: 1951136
+  total_non_words: 195926
+quality:
+  non_words_ratio: 0.1
